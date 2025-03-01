@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+#tripForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container{
+    max-width: 500px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+body{
+    background-image: url("hello.webp");
+    background-size: cover; 
+background-position: center; 
+background-repeat: no-repeat;  
+margin: 0;
+
+}
+
